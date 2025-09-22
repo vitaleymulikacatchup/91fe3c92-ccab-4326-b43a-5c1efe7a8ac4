@@ -29,7 +29,7 @@ export default function Home() {
             <div id="hero" data-section="hero" className="scroll-mt-24">
                 <SplitHero
                     title="Welcome to MemeCoin"
-                    subtitle="The future of playful investments."
+                    subtitle="WOWO"
                     primaryButtonText="Buy Now"
                     secondaryButtonText="Learn More"
                     onPrimaryButtonClick={() => {}}
