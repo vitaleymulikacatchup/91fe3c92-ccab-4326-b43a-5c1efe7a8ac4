@@ -15,8 +15,6 @@ export default function Home() {
         <NavbarBase 
           logoSrc="/images/logo.svg"
           logoAlt="MemeCoin"
-          logoWidth={100}
-          logoHeight={50}
           leftButtonText="Menu"
           rightButtonText="Contact"
           buttonBgColor="#FF5A5F"
