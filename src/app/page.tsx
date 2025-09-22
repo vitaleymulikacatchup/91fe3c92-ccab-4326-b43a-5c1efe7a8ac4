@@ -83,7 +83,7 @@ export default function Home() {
                     logoAlt="MemeCoin"
                     logoText="MemeCoin"
                     className="footer"
-                    logoClassName="logo"
+                    svgClassName="logo"
                 />
             </div>
         </SiteThemeProvider>
